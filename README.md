@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Osman
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML/CSS/JAVA
+- 🌱 I’m currently learning HTML/CSS/Javascript
 - 📫 How to reach me ragnarsanda@gmail.com
 
 <!---
